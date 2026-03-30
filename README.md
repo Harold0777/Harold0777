@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Haroldo Diógenes! 👋
 
-<!--
-**Harold0777/Harold0777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Estudante de Engenharia de Software (IFCE)
 
-Here are some ideas to get you started:
+Sou um estudante apaixonado por tecnologia, sempre em busca de aprender coisas novas e resolver problemas através do código. Atualmente, estou focado em aprimorar minhas habilidades em lógica de programação, algoritmos e design de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduando em **Engenharia de Software** no **IFCE** (Instituto Federal do Ceará).
+- 💡 Foco atual: Desenvolvimento com C, Python e HTML.
+- 🚀 Sempre aberto a novos desafios e projetos open-source.
+
+---
+
+### 🛠️ Linguagens e Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
+
+<br>
