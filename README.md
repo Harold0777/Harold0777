@@ -5,7 +5,7 @@
 Sou um estudante apaixonado por tecnologia, sempre em busca de aprender coisas novas e resolver problemas através do código. Atualmente, estou focado em aprimorar minhas habilidades em lógica de programação, algoritmos e design de software.
 
 - 🎓 Graduando em **Engenharia de Software** no **IFCE** (Instituto Federal do Ceará).
-- 💡 Foco atual: Desenvolvimento com C, Python e HTML.
+- 💡 Foco atual: Desenvolvimento com C, Python, HTML e CSS.
 - 🚀 Sempre aberto a novos desafios e projetos open-source.
 
 ---
