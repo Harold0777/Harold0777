@@ -77,6 +77,14 @@ void heapify(int arr[], int n, int i) {
 ---
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harold0777/Harold0777/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harold0777/Harold0777/output/github-snake.svg" />
+    <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/Harold0777/Harold0777/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <a href="mailto:diozharoldo634@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/haroldo_diogenes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
